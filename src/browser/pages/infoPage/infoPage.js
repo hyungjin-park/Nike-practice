@@ -57,6 +57,7 @@ const InfoPage = () => {
   const onClickTop = () => {
     window.scrollTo(0, 0);
   };
+
   const func = () => {
     setImgSrc(SHOES_LIST[result2 - 1]?.imgDetail1);
     // console.log(typeof pathName, SHOES_LIST[pathName - 1]?.imgDetail1);

@@ -3,7 +3,6 @@ import styled from "styled-components";
 import Layout from "./components/layout";
 import Home from "./pages/home/home";
 import InfoPage from "./pages/infoPage/infoPage";
-import InfoPage2 from "./pages/infoPage/infoPage2";
 
 const Browser = () => {
   return (

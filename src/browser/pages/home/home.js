@@ -2,7 +2,6 @@ import { useState } from "react";
 // import styled from "styled-components";
 import Itemcategori from "../homeScreen/itemCategori";
 import ItemList from "../homeScreen/itemList";
-import ItemTopScreen from "../homeScreen/itemTopScreen";
 import styled, { keyframes } from "styled-components";
 
 const Home = () => {
